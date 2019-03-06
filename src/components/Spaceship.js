@@ -1,2 +1,9 @@
 import react from 'react';
-import reactDOM from 'react-dom';
+
+export default class Spaceship extends React.Component {
+  super(props) ; 
+
+  render() {
+    
+  }
+}
